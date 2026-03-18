@@ -1,4 +1,4 @@
-terraform {
+erraform {
   required_providers {
     local = {
       source  = "hashicorp/local"
